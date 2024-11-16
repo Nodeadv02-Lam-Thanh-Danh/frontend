@@ -1,5 +1,3 @@
-# frontend
-
 # Application port
  - 3001 (must be set to this number to make the cookie works)
 
